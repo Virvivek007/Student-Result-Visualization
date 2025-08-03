@@ -101,6 +101,7 @@ An interactive report showing:
 ## 🗃 Example
 
 You can find the .pbix file and sample dataset in the repository for demo and customization.
+<a href ="https://github.com/Virvivek007/Student-Result-Visualization/blob/main/Dashboard-visual.png">Dashboard-Visuals</a>
 
 ---
 
