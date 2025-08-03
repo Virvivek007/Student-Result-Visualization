@@ -1,7 +1,4 @@
 
-
-📁 README.md (Power BI Student Performance Dashboard)
-
 # 📊 Student Performance Dashboard – Power BI
 
 This project presents an interactive Power BI report for visualizing and analyzing student academic performance across various subjects and classes. It is designed to assist educators in identifying performance trends, grade distributions, and top performers.
